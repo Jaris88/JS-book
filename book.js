@@ -5,3 +5,10 @@ if (age >= 12) {
 } else if ( age >=12 || accompained) {
      true;
 } else false;
+
+
+
+
+let arr = [3,2,1];
+let newStr = arr.join(" больше, чем ");
+console.log(newStr);
